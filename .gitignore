@@ -1,2 +1,35 @@
-venv
+# Arquivos de Bytecode e Cache do Python
+__pycache__/
+*.pyc
+
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Arquivos de Segredos e Configurações de Deploy
+.env
+*.ini
+uwsgi_params
+
+# Banco de Dados
+*.sqlite3
 db.sqlite3
+
+# Arquivos de Mídia (gerados pelo usuário)
+/media/
+
+# Arquivos de Logs
+*.log
+logs/
+
+# Arquivos do Editor de Código
+.vscode/
+.idea/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo próprio processo
+estrutura_do_projeto.txt
