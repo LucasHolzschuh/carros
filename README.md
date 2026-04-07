@@ -27,7 +27,7 @@ O sistema simula um inventário de concessionária, onde usuários podem cadastr
 ## 🛠️ Stack Tecnológica
 
 - **Back-end:** Python, Django
-- **Front-end:** HTML, CSS (Pode adicionar o framework que usou, ex: Bootstrap)
+- **Front-end:** HTML, CSS 
 - **Banco de Dados:** PostgreSQL
 - **Inteligência Artificial:** Google Gemini API
 - **Servidor de Aplicação:** uWSGI
